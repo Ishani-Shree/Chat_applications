@@ -56,9 +56,4 @@ For further enhancements, consider adding features such as user authentication, 
 
 Feel free to explore the code and modify it to suit your needs!
 
-## 🚀 About Me
-My name is __Vikas Prajapati__, and I am currently pursuing __BTech in Computer Science and Engineering from IIT Jammu__. This project is part of my ongoing efforts to explore and understand network programming and concurrent processing using C++.
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-prajapati-577bab252/)
 
